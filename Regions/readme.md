@@ -30,3 +30,6 @@ Regions
 <img src="Regions5.png"> 
 
 
+ 
+
+全部圖片皆取自apple developer!!
